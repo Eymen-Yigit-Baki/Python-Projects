@@ -14,3 +14,6 @@ Y = Yazili/2
 #Ortalama Bölümü (Ana kod)::
 Ortalama_Not = (S+L+Y)
 print(Ortalama_Not)
+
+
+#deep Not: 10 ve altı not alınana sınavların toplamında sistem hata yapabilir
