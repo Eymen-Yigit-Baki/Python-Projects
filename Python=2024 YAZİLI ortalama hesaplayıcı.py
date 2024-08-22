@@ -16,4 +16,4 @@ Ortalama_Not = (S+L+Y)
 print(Ortalama_Not)
 
 
-#deep Not: 10 ve altı not alınana sınavların toplamında sistem hata yapabilir
+#deep Not: 10 ve altı not alınan sınavların toplamında sistem hata yapabilir
